@@ -1,0 +1,25 @@
+
+.shooterCard {
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cardshooterBody{
+    background-color: #E26868;
+}
+.titleShooterCard{
+    font-size: 1.6rem;
+    color: #D8D9CF;
+}
+.textShooterCard{
+    color: #A2B5BB;
+    font-size: 1rem;
+}
+.buttonShooter{
+    background-color: #EB1D36;
+    color: #EDEDED;
+    border-bottom: #E26868;
+    border-style: solid;
+    border-radius: 10%;
+}

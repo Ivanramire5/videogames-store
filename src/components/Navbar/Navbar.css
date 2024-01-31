@@ -1,0 +1,28 @@
+
+.mx-auto{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.nombresLinks{
+    text-decoration: none;
+    color: aliceblue;
+}
+.containers{
+    background-color: #191919;
+    padding: 20px;
+    margin-bottom: -8px;
+    margin-top: -16px;
+}
+.navBarContainer{
+    background-color: #191919;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -20px;
+}
+.navbar-toggler{
+    color: #7FC7D9;
+}

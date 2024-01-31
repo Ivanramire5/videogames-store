@@ -1,0 +1,60 @@
+
+[
+    {
+        "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
+        "nombre": "The binding of isaac",
+        "description": "Roguelike con calabozos y con humor negro y acido",
+        "desarrollador": "Edmund McMillen",
+        "img": "https://media.vandal.net/master/3-2023/20233192354223_1.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/268910/Cuphead/",
+        "nombre": "Cuphead",
+        "description": "Juego con diseño artistico de 1920",
+        "desarrollador": "Studio MDHR Entertainment Inc.",
+        "img": "https://wallpapers.com/images/hd/cuphead-poster-in-yellow-m5xzoa08880poctv.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/105600/Terraria/",
+        "nombre": "Terraria",
+        "description": "Sandbox rpg en 2d",
+        "desarrollador": "Re-Logic",
+        "img": "https://pockethost.app/wp-content/uploads/2022/01/apps.4766.70406876433810089.4beffaca-3fee-4154-a21f-ecd9b3bedbb3.3feb4567-c790-499e-befe-50e5b9ba430f-1.jpg"
+    },
+
+    {
+        "url": "https://store.steampowered.com/app/1017180/The_Long_Drive/",
+        "nombre": "The Long Drive",
+        "description": "Mundo abierto y conduccion post apocaliptica",
+        "desarrollador": "Genesz",
+        "img": "https://cdn.akamai.steamstatic.com/steam/apps/1017180/capsule_616x353.jpg?t=1666983789"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1424330/Wobbledogs/",
+        "nombre": "Wobbledogs",
+        "description": "Criador de perros",
+        "desarrollador": "Animal Uprising",
+        "img": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-04/Wobbledogs.jpg?itok=cxfMaLBg"
+    },
+    {
+        "url": "https://www.nintendo.com/es-ar/store/products/suika-game-switch/",
+        "nombre": "Suika Game",
+        "description": "Juego de puzzles que mezcla tetris con candy crush",
+        "desarrollador": "Aladdin X",
+        "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-976891-52.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/2263010/Pineapple_on_pizza/",
+        "nombre": "Pineapple on Pizza",
+        "description": "Es similar a comer pizza con piña",
+        "desarrollador": "Majorariatto",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrRoAuF0j-7OTSFlh0ZE6yHb1_QLxaERBz4VWcJ6OTIhn8zgVpYXx30j8tgJVGB0j7n4&usqp=CAU"
+    },
+    {
+        "url": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
+        "nombre": "Pizza Tower",
+        "description": "Plataformero frenetico y colorido",
+        "desarrollador": "Tour de Pizza",
+        "img": "https://media.vandal.net/m/6-2023/202363017583990_1.jpg"
+    }
+]

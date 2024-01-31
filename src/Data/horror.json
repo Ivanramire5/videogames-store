@@ -1,0 +1,37 @@
+[
+    {
+        "url": "https://store.steampowered.com/app/963710/Lost_in_Vivo/",
+        "nombre": "Lost in vivo",
+        "description": "Juego de terror japones inspirado en Silent Hill",
+        "desarrollador": "KIRA",
+        "img": "https://cdn.steamstatic.com/steamcommunity/public/images/items/963710/1de350e58f1e568369ad061a1a3885a21b8709d2.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/2558580/The_Backrooms_Unbounded/",
+        "nombre": "The Backrooms: Unbounded",
+        "description": "Terror psicologico en espacios liminales",
+        "desarrollador": "BluSkie",
+        "img": "https://wallpapers.com/images/hd/the-backrooms-8hmdrwfhzhbpebgv.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/252330/Slender_The_Arrival/",
+        "nombre": "Slender The Arrival",
+        "description": "Del creepypasta Slenderman",
+        "desarrollador": "Blue Isle Studios",
+        "img": "https://i.pinimg.com/originals/4e/08/34/4e08340586e6f78a9ded0a689069d604.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/",
+        "nombre": "Resident Evil 7",
+        "description": "La formula Resident Evil reinventada",
+        "desarrollador": "Capcom",
+        "img": "https://wallpapercave.com/wp/wp4108224.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/",
+        "nombre": "Silent Hill 2",
+        "description": "Terror psicologico de supervivencia",
+        "desarrollador": "Tean Silent",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO2T-kVa1R8z3WZFRuzRAiaYfaP82dJTYB-xBy9qZb1_rdYLq2QLkjDuwBUAHzBmJ0S1I&usqp=CAU"
+    }
+]

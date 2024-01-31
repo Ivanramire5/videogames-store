@@ -1,0 +1,43 @@
+
+.divInicioUno {
+    background-color: #DCF2F1;
+}
+.inicioH1{
+    background-color: #7FC7D9;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 2.3rem;
+    color: #EEEEEE;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #001C30;
+}
+.inicioH2{
+    font-size: 2rem;
+    color: #001C30; 
+}
+.footerInicio{
+    text-align: left;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    background-color: #7FC7D9;
+}
+.h4Footer{
+    background-color: #001C30;
+    border-bottom: #7FC7D9;
+    border-top: #001C30;
+    border-left: #001C30;
+    border-right: #001C30;
+    border-style: dotted;
+    color: #EEEEEE;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 1.3rem;
+}
+.pFooter{
+    color: #001C30;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 1.1rem;
+}

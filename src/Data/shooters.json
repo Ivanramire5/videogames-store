@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://store.steampowered.com/app/730/CounterStrike_2/",
+        "nombre": "Counter Strike 2",
+        "description": "Shooter tactico 5vs5",
+        "desarrollador": "Valve",
+        "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/03/Counter-Strike-2.jpeg?fit=1920%2C1080&quality=50&strip=all&ssl=1"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1238810/Battlefield_V/",
+        "nombre": "Battlefield 5",
+        "description": "Shooter a gran escala de la WW2",
+        "desarrollador": "Dice",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/11/b01667a1-f1b7-433d-b40b-53efccb6facc.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/782330/DOOM_Eternal/",
+        "nombre": "Doom Eternal",
+        "description": "Un clasico revitalizado y frenetico",
+        "desarrollador": "Bethesda",
+        "img": "https://wallpapers.com/images/hd/doom-game-c3rq5eqw5fr746l9.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1229490/ULTRAKILL/",
+        "nombre": "Ultrakill",
+        "description": "Shooter arcade con graficos retro. El preferido de muchos",
+        "desarrollador": "Arsi Hakita Patala",
+        "img": "https://images5.alphacoders.com/107/1075225.png"
+    },
+    {
+        "url": "https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/",
+        "nombre": "Call Of Duty Black Ops 2",
+        "description": "La formula Call of duty clasica perfeccionada",
+        "desarrollador": "Activision",
+        "img": "https://images6.alphacoders.com/447/447007.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/8850/BioShock_2/",
+        "nombre": "Bioshock 2",
+        "description": "Shooter en una sociedad distopica submarina",
+        "desarrollador": "2k Marin",
+        "img": "https://images5.alphacoders.com/531/531926.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/204340/Serious_Sam_2/",
+        "nombre": "Serious Sam 2",
+        "description": "Humor negro y absurdo. Quiero lo que se fumaron los desarrolladores",
+        "desarrollador": "Croteam",
+        "img": "https://cdn.akamai.steamstatic.com/steam/apps/204340/ss_219e24dcdf315af811f36dc1d065351d8bef4996.1920x1080.jpg?t=1701713072"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1237970/Titanfall_2/",
+        "nombre": "Titanfall 2",
+        "description": "Shooter futurista con robots gigantes",
+        "desarrollador": "Electronic Arts",
+        "img": "https://i.pinimg.com/originals/ea/4e/91/ea4e91c78140e915ba61a9414f12f008.jpg"
+    }
+]

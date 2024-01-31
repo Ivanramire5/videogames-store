@@ -1,0 +1,23 @@
+
+
+.indiesCard {
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cardIndies{
+    background-color: #1F4172;
+}
+.titleIndie{
+    color: #FDF0F0;
+    font-size: 1.6rem
+}
+.textIndies{
+    color: #EEE2DE;
+    font-size: 1rem;
+}
+.indieButton{
+    background-color: #F1B4BB;
+    color: #132043;
+}

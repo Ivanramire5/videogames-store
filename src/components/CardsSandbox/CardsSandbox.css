@@ -1,0 +1,25 @@
+
+.sandboxCard {
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cardBody{
+    background-color: #436850;
+}
+.titleSandboxCard{
+    font-size: 1.6rem;
+    color: #ADBC9F;
+}
+.textSandboxCard{
+    font-size: 1rem;
+    color: #E1F0DA;
+}
+.buttonSandbox{
+    background-color: #436850;
+    color: #E1F0DA;
+    border-bottom: #99BC85;
+    border-style: solid;
+    border-radius: 10%;
+}

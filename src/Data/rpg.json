@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/",
+        "nombre": "Dark Souls 1",
+        "description": "Rpg de fantasia oscura",
+        "desarrollador": "From Software",
+        "img": "https://images3.alphacoders.com/271/271539.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/236430/DARK_SOULS_II/",
+        "nombre": "Dark Souls 2",
+        "description": "Rpg de fantasia oscura",
+        "desarrollador": "From Software",
+        "img": "https://wallpapercave.com/wp/wp1980920.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/374320/DARK_SOULS_III/",
+        "nombre": "Dark Souls 3",
+        "description": "Rpg de fantasia oscura",
+        "desarrollador": "From Software",
+        "img": "https://cdn.suwalls.com/wallpapers/games/flaming-knight-in-dark-souls-iii-52840-1920x1080.jpg"
+    },
+    {
+        "url": "https://www.playstation.com/es-ar/games/bloodborne/",
+        "nombre": "Bloodborne",
+        "description": "Rpg lovecraftiano de cazadores y bestias",
+        "desarrollador": "From Software",
+        "img": "https://w.forfun.com/fetch/e8/e8e94c0ffa518583d0543a04489d0704.jpeg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+        "nombre": "Baldurs Gate 3",
+        "description": "Inspirado en Dungeons and Dragons. Aclamado por la critica como juego del año",
+        "desarrollador": "Larian Studios",
+        "img": "https://i.pinimg.com/originals/7c/6b/67/7c6b67fddbef9c4127efc3bd409cd425.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+        "nombre": "Elden Ring",
+        "description": "Rpg de fantasia medieval de mundo abierto",
+        "desarrollador": "From Software",
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/MXAXZUK4QJHS5M63I6SZWVLTXA.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+        "nombre": "The Elder Scrolls V: Skyrim",
+        "description": "Rpg nordico",
+        "desarrollador": "Bethesda",
+        "img": "https://images6.alphacoders.com/378/378240.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+        "nombre": "Cyberpunk 2077",
+        "description": "Rpg distopico con ambientacion cyberpunk",
+        "desarrollador": "CD Projekt RED",
+        "img": "https://static.cdprojektred.com/cms.cdprojektred.com/16x9_big/12aaa3b137a18e180bb92682e8f81674dcb7451f-1920x1080.jpg"
+    }
+]

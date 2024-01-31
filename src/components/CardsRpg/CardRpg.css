@@ -1,0 +1,25 @@
+
+.rpgCard{
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cardRpgBody{
+    background-color: #0B666A;
+}
+.cardRpgTitle{
+    color: #97FEED;
+    font-size: 1.6rem;
+}
+.textRpgCard{
+    color: #97FEED;
+    font-size: 1rem;
+}
+.rpgButton{
+    background-color: #071952;
+    color: #97FEED;
+    border-bottom: #071952;
+    border-style: solid;
+    border-radius: 10%;
+}

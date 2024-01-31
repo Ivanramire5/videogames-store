@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://www.minecraft.net/es-es",
+        "nombre": "Minecraft",
+        "description": "Sandbox de supervivencia y crafteo",
+        "desarrollador": "Mojang Studios",
+        "img": "https://wallpapers.com/images/featured/minecraft-s2kxfahyg30sob8q.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/17390/SPORE/",
+        "nombre": "Spore",
+        "description": "Juego de evolucion",
+        "desarrollador": "Maxis",
+        "img": "https://wallpapercave.com/wp/hIWlLDD.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/220200/Kerbal_Space_Program/",
+        "nombre": "Kerbal Space Program",
+        "description": "Sandbox de ingenieria espacial",
+        "desarrollador": "Squad",
+        "img": "https://images.ctfassets.net/wn7ipiv9ue5v/uRcsmTDi3EPxSOUNza5kO/04b5448ee3c3a52c35307e023d7c3577/Key-Art-1920-x-1080-no-logo.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+        "nombre": "Grand Theft Auto 5",
+        "description": "Sandbox de crimenes",
+        "desarrollador": "Rockstar",
+        "img": "https://www.1zoom.me/big2/426/326859-alexfas01.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+        "nombre": "Garris Mod",
+        "description": "Sandbox de Valve",
+        "desarrollador": "Valve",
+        "img": "https://clan.akamai.steamstatic.com/images//742793/b1720d637e3eb1bc510a61a64c336d239fa03ee9.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/",
+        "nombre": "Fallout New Vegas",
+        "description": "Juego de rol post apocaliptico nuclear",
+        "desarrollador": "Obsidian/Bethesda",
+        "img": "https://store-images.s-microsoft.com/image/apps.56995.13869736752294987.ca050464-c72a-476d-941d-c1c814c4213d.086da48d-2bd1-47fd-85eb-cf98f6225882?mode=scale&q=90&h=1080&w=1920"
+    },
+    {
+        "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+        "nombre": "Stardew Valley",
+        "description": "Simulador de granja",
+        "desarrollador": "ConcernedApe",
+        "img": "https://wallpapers.com/images/featured/stardew-valley-ltuynqpjb7c95ffq.jpg"
+    },
+    {
+        "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+        "nombre": "No Mans Sky",
+        "description": "Sandbox de exploracion espacial",
+        "desarrollador": "Hello Games",
+        "img": "https://u.cubeupload.com/Syzygos/NMSConceptArtWallpap.png"
+    }
+]

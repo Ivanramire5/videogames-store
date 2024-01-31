@@ -1,0 +1,24 @@
+.horrorCard {
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.cardHorrorBody{
+    background-color: #B31312;
+}
+.cardHorrorTitle{
+    color: #EEE2DE;
+    font-size: 1.6rem;
+}
+.cardHorrorText{
+    color: #EEE2DE;
+    font-size: 1rem;
+}
+.buttonHorror{
+    background-color: #FFF5E0;
+    color: #2B2A4C;
+    border-color: #EA906C;
+    border-style: solid;
+    border-radius: 10%;
+}
